@@ -1,0 +1,1 @@
+SELECT date,symptom_Abdominal_pain FROM `bigquery-public-data.covid19_symptom_search.symptom_search_country_daily` order by symptom_Abdominal_pain desc 
